@@ -23,3 +23,6 @@ defaultExpandedKeys|默认展开的节点|Array|—|[]
 value|指定节点实际值为节点对象的某个属性值|String|—|'value'
 label|指定节点显示值为节点对象的某个属性值|String|—|'label'
 children|指定子树为节点对象的某个属性值|String|—|'children'
+
+## 演示地址
+[Demo](https://shenwangchuan.github.io/ele-tree-select/dist/)
