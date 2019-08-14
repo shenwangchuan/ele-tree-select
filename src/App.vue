@@ -23,7 +23,7 @@ export default {
     return {
       form: {
         radioV:'',
-        multiV: [2]
+        multiV: []
       },
       allArea: [],
       areaProps: {
